@@ -1,4 +1,4 @@
-def current_player(player = "X")
+def current_player(board)
   player
 end
 
